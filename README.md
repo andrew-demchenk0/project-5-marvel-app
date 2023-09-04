@@ -1,7 +1,7 @@
 # Marvel info portal
 This app is an educational mockup. Here I worked with "Marvel API". A lot of functionality was implemented in the application using many libraries, hooks, etc.
 
-### ☞ [Preview]() ☜
+### ☞ [Preview](https://project-7-marvel-info-portal.vercel.app/) ☜
 
 
 ## 🛠 Skills
